@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "commonjs",
+    "target": "es2015",
+    "noUnusedLocals": true,
+    "noImplicitReturns": true,
+    "noUnusedParameters": true,
+    "moduleResolution": "node",
+    "allowJs": true,
+    "lib": ["es2015", "es6", "es7", "es2017.object", "dom"],
+    "outDir": "./dist/"
+  },
+  "include": ["*.ts", "lib/**/*.ts"]
+}

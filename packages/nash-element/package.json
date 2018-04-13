@@ -1,0 +1,16 @@
+{
+  "name": "nash-element",
+  "flat": true,
+  "version": "0.0.0",
+  "description": "The base Nash element.",
+  "main": "index.js",
+  "author": "Zachary Jones <me@zacharytamas.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lit-html": "^0.9.0",
+    "skatejs": "^5.1.1"
+  },
+  "devDependencies": {
+    "@types/skatejs": "^5.0.0"
+  }
+}
