@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "experimentalDecorators": true,
-    "module": "commonjs",
-    "target": "es2015",
+    "module": "es2015",
+    "target": "es2017",
     "noUnusedLocals": true,
     "noImplicitReturns": true,
     "noUnusedParameters": true,
