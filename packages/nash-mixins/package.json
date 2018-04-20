@@ -1,6 +1,6 @@
 {
   "name": "nash-mixins",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "SkateJS mixins for Nash.",
   "main": "index.js",
   "repository": "https://github.com/zacharytamas/nash-ui",
