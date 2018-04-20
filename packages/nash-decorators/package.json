@@ -1,0 +1,9 @@
+{
+  "name": "nash-decorators",
+  "version": "0.1.0",
+  "description": "Decorators for Nash elements.",
+  "repository": "https://github.com/zacharytamas/nash-ui",
+  "author": "Zachary Jones <me@zacharytamas.com>",
+  "main": "index.ts",
+  "license": "MIT"
+}
