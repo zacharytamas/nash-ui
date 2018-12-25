@@ -7,9 +7,9 @@
   "author": "Zachary Jones <me@zacharytamas.com>",
   "license": "MIT",
   "devDependencies": {
-    "lerna": "^2.10.1",
+    "lerna": "^3.8.0",
     "tslint": "^5.9.1",
     "tslint-config-prettier": "^1.10.0",
-    "typescript": "^2.8.1"
+    "typescript": "^3.2.2"
   }
 }
