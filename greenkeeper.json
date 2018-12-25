@@ -1,0 +1,12 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "package.json",
+        "packages/nash-decorators/package.json",
+        "packages/nash-element/package.json",
+        "packages/nash-mixins/package.json"
+      ]
+    }
+  }
+}
