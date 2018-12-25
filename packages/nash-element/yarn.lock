@@ -6,9 +6,15 @@
   version "5.0.0"
   resolved "https://registry.yarnpkg.com/@types/skatejs/-/skatejs-5.0.0.tgz#81f6e6bf455cc55aa4b7b629ce2ffb18593f56c4"
 
-lit-html@^0.9.0:
-  version "0.9.0"
-  resolved "https://registry.yarnpkg.com/lit-html/-/lit-html-0.9.0.tgz#a445ecbb3da7d8b17690e6ade6c872c89385092a"
+lit-html@^0.14.0:
+  version "0.14.0"
+  resolved "https://registry.yarnpkg.com/lit-html/-/lit-html-0.14.0.tgz#d6830e8f55fb923b0f5824decf7da082a1d22997"
+  integrity sha512-+xqUPzzJGEDqb0F5DOnMXvL0jxpkKebAMlXycKZxFtzlmD+qePEmYrEUPF9XVXcc5eYBzYXTCOUcjSCod4YvgQ==
+
+nash-mixins@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/nash-mixins/-/nash-mixins-0.1.0.tgz#f169334aaa7db46ea9271dfecec842dd328ed608"
+  integrity sha1-8WkzSqp9tG6pJx3+zshC3TKO1gg=
 
 skatejs@^5.1.1:
   version "5.1.1"
